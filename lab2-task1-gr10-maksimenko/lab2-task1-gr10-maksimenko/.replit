@@ -1,2 +1,9 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o hello /home/runner/project2/src/main.c"
+modules = ["c-clang14"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "gcc -o main /home/runner/project2/src/main.c"]
