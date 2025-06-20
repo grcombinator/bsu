@@ -1,3 +1,0 @@
-﻿  os_lab3.cpp
-D:\C++ labs\os_lab3\os_lab3\os_lab3.cpp(59,40): warning C4267: *=: преобразование из "size_t" в "int"; возможна потеря данных
-  os_lab3.vcxproj -> D:\C++ labs\os_lab3\x64\Debug\os_lab3.exe
