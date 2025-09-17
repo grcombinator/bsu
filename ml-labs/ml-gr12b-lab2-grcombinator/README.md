@@ -27,7 +27,3 @@ ml-gr12b-lab2-grcombinator created by GitHub Classroom
   
 ## Используемое ПО
 - Интегрированная среда разработки (+версия): PyCharm Community 2023.3.4
-
-Ссылка на gist: [https://gist.github.com/grcombinator/cc7e2731d30f4ea2ec827dd444069507]
-
-(Ссылка на Colab Notebook) [https://colab.research.google.com/drive/1QYf0Z-vymSywl_lzICCkbc2kZ1_C3XOt?authuser=0#scrollTo=7BtBdrBOGP9Y]
